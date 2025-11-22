@@ -1,6 +1,6 @@
 name = "domain-check"
 main = "src/index.js"
-compatibility_date = "2025-11-17"
+compatibility_date = "2025-11-22"
 keep_vars = true
 
 [[kv_namespaces]]
